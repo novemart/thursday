@@ -1,0 +1,2 @@
+# thursday
+My Thursday repositpory.
